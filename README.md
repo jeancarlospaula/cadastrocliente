@@ -1,1 +1,1 @@
-# CRUD Cadastro Cliente (Visual Basic .NET)
+# Cadastro Cliente (CRUD Visual Basic .NET)
