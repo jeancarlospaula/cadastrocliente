@@ -1,0 +1,11 @@
+CREATE DATABASE Cliente
+
+USE Cliente
+
+CREATE TABLE usuario (
+	userID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	userName VARCHAR(50) NOT NULL,
+	userNumber INT NOT NULL,
+);
+
+SELECT * FROM usuario

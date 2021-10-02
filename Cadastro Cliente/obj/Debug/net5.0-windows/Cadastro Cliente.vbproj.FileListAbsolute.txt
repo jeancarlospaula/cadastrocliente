@@ -1,0 +1,50 @@
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.exe
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.deps.json
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.runtimeconfig.json
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.runtimeconfig.dev.json
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\ref\Cadastro Cliente.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.pdb
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.vbproj.AssemblyReference.cache
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro_Cliente.Form1.resources
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.vbproj.GenerateResource.cache
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.AssemblyInfoInputs.cache
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.AssemblyInfo.vb
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.vbproj.CoreCompileInputs.cache
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.vbproj.CopyComplete
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\ref\Cadastro Cliente.dll
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.pdb
+C:\Users\jean2\source\repos\Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.genruntimeconfig.cache
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.exe
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.deps.json
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.runtimeconfig.json
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.runtimeconfig.dev.json
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\ref\Cadastro Cliente.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\Cadastro Cliente.pdb
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.vbproj.AssemblyReference.cache
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro_Cliente.Form1.resources
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.vbproj.GenerateResource.cache
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.AssemblyInfoInputs.cache
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.AssemblyInfo.vb
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.vbproj.CoreCompileInputs.cache
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.vbproj.CopyComplete
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\ref\Cadastro Cliente.dll
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.pdb
+C:\Users\jean2\source\repos\CRUD Cadastro Cliente\Cadastro Cliente\obj\Debug\net5.0-windows\Cadastro Cliente.genruntimeconfig.cache
